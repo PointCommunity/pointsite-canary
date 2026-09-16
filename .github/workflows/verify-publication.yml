@@ -1,0 +1,17 @@
+name: Verify public publication
+run-name: Verify public publication ${{ github.event.client_payload.verificationId }}
+on:
+  repository_dispatch:
+    types: [verify-publication]
+permissions:
+  contents: read
+  id-token: write
+jobs:
+  verify:
+    if: github.ref == 'refs/heads/main' && ((github.repository == 'PointCommunity/pointsite' && github.event.client_payload.builderOrigin == 'https://builder.eaglepass.io') || (github.repository == 'PointCommunity/pointsite-canary' && github.event.client_payload.builderOrigin == 'https://builder-canary.eaglepass.io'))
+    uses: PointCommunity/pointsite-staging/.github/workflows/verify-runtime.yml@3b5a7294ce24315b2edb7c02b91b13d3ba733bf0
+    with:
+      builder_origin: ${{ github.event.client_payload.builderOrigin }}
+      job_id: ${{ github.event.client_payload.verificationId }}
+      nonce: ${{ github.event.client_payload.nonce }}
+      target: production
