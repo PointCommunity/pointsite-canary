@@ -631,7 +631,7 @@
             },
             {
               "id": "3c3c3c3c-0000-4000-8000-000000005001",
-              "span": 8,
+              "span": 5,
               "align": {
                 "desktop": "center",
                 "tablet": "center",
@@ -639,9 +639,9 @@
               },
               "grid": {
                 "desktop": {
-                  "column": 5,
+                  "column": 8,
                   "row": 1,
-                  "columnSpan": 8,
+                  "columnSpan": 5,
                   "rowSpan": 2
                 },
                 "tablet": {
