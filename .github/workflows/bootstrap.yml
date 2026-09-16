@@ -1,0 +1,30 @@
+name: Bootstrap reviewed public Canary baseline
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pointsite-pages-production
+  cancel-in-progress: false
+jobs:
+  deploy:
+    if: github.repository == 'PointCommunity/pointsite-canary' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: https://canary.pointatx.org
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
+        with:
+          persist-credentials: false
+      - name: Verify and extract the reviewed static baseline
+        run: python3 scripts/bootstrap.py
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9
+        with:
+          path: out
+          retention-days: 1
+          include-hidden-files: true
+      - uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346
