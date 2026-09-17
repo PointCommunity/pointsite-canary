@@ -719,8 +719,8 @@
                 "heading": "Who We Are",
                 "body": "We are a family of disciples on mission.",
                 "mediaId": "00000000-0000-4000-8000-000000002009",
-                "align": "left",
-                "surface": "image",
+                "align": "center",
+                "surface": "primary",
                 "actions": [],
                 "variant": "pageHero",
                 "headingWidth": {
