@@ -10,7 +10,7 @@ permissions:
 jobs:
   publish:
     if: github.ref == 'refs/heads/main' && ((github.repository == 'PointCommunity/pointsite' && github.event.client_payload.builderOrigin == 'https://builder.eaglepass.io') || (github.repository == 'PointCommunity/pointsite-canary' && github.event.client_payload.builderOrigin == 'https://builder-canary.eaglepass.io'))
-    uses: PointCommunity/pointsite-staging/.github/workflows/publish-production-runtime.yml@c72b7d654dd66aafb7a341114a5910b24a80a35e
+    uses: PointCommunity/pointsite-staging/.github/workflows/publish-production-runtime.yml@cc59ebcacf12550a42fc8c45684c450a0cacfb70
     with:
       builder_origin: ${{ github.event.client_payload.builderOrigin }}
       job_id: ${{ github.event.client_payload.jobId }}
