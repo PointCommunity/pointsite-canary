@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 10,
-  "rendererVersion": "10.0.0",
+  "schemaVersion": 11,
+  "rendererVersion": "11.0.0",
   "site": {
     "name": "Point Community Church",
     "shortName": "Point ATX",
@@ -4187,77 +4187,77 @@
   "media": [
     {
       "id": "00000000-0000-4000-8000-000000002000",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/5cd0e58f-d3ec-4b81-99b0-ac65d9af793b/austin-skyline.jpeg",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/1ed0fbe0-826e-487a-a426-57068490d012/austin-skyline.jpeg",
       "alt": "Austin skyline over the Colorado River"
     },
     {
       "id": "00000000-0000-4000-8000-000000002001",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/0b6371ef-36ef-4b59-8ca8-ffce3cca847d/neighborhood-table.jpeg",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/1e90b19d-e420-4530-aeb1-84e9f0e4ee25/neighborhood-table.jpeg",
       "alt": "Friends and families sharing a meal"
     },
     {
       "id": "00000000-0000-4000-8000-000000002002",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/fc90ca25-1f0d-468d-9fa0-4e9a0de881f6/next-generation.jpeg",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/92a0be97-7358-4aa1-842d-10da002c80a8/next-generation.jpeg",
       "alt": "Families worshiping together at Point ATX"
     },
     {
       "id": "00000000-0000-4000-8000-000000002004",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/b091d5a8-a3ef-4643-8ab0-60b8a848c766/giving.png",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/60d2d965-0796-4066-9377-6c55a8197a62/giving.png",
       "alt": "Point Community Church giving"
     },
     {
       "id": "00000000-0000-4000-8000-000000002005",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/6f079a05-ed9a-4bb9-9ae5-f9fc98390cf5/kids-ministry-1.jpeg",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/cb080d6b-5a72-4ae7-8f8e-065c045e701c/kids-ministry-1.jpeg",
       "alt": "Children participating in Point kids ministry"
     },
     {
       "id": "00000000-0000-4000-8000-000000002006",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/484957b5-eea6-4d74-af31-560bdc32106f/kids-ministry-2.jpeg",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/85c6169e-2651-4500-aa51-9269354226a9/kids-ministry-2.jpeg",
       "alt": "Point ATX kids ministry"
     },
     {
       "id": "00000000-0000-4000-8000-000000002007",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/84ad24aa-7f93-4700-ac85-5ba1c808778e/kids-ministry-3.jpeg",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/e9a7fa10-a7a4-4378-97c2-56419db129d6/kids-ministry-3.jpeg",
       "alt": "Children and families at Point ATX"
     },
     {
       "id": "00000000-0000-4000-8000-000000002008",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/5aad4570-4247-41ac-aa6f-189c688681f0/neighborhood-map.png",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/478f74dc-0e0f-495e-b06f-ea0d492ccbdb/neighborhood-map.png",
       "alt": "Map of Point neighborhood groups"
     },
     {
       "id": "00000000-0000-4000-8000-000000002009",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/b5a95b57-c8ee-47e9-8ec6-061e32469b38/who-we-are.jpeg",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/6019e714-66a0-4bc8-9fa0-9ca5efff5253/who-we-are.jpeg",
       "alt": "Point Community Church gathered together"
     },
     {
       "id": "00000000-0000-4000-8000-000000002010",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/04c393ba-1e8c-4002-9292-968c342a2a76/gonzo-gonzales.jpeg",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/0af24e00-4553-4c09-833a-4fbe5bdd5030/gonzo-gonzales.jpeg",
       "alt": "Gonzo Gonzales"
     },
     {
       "id": "00000000-0000-4000-8000-000000002011",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/60aa9eee-c1b7-4351-9c11-a59cc973e7e0/josh-currer.jpeg",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/bf20f712-cb25-42e2-8fbc-24e2b4feb3cb/josh-currer.jpeg",
       "alt": "Josh Currer"
     },
     {
       "id": "00000000-0000-4000-8000-000000002013",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/10098921-bd9a-4495-823b-b441a1ab5d84/laura-munoz.jpeg",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/f4f0f12f-909e-444a-9678-6ffed6966431/laura-munoz.jpeg",
       "alt": "Laura Munoz"
     },
     {
       "id": "00000000-0000-4000-8000-000000002014",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/ca764de8-45a7-478c-b931-458ccc5bad50/nick-shock.jpeg",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/7c3dcba8-db72-45c5-b060-42ebdbcbd29b/nick-shock.jpeg",
       "alt": "Nick Shock"
     },
     {
       "id": "00000000-0000-4000-8000-000000002015",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/699582af-d5cd-4876-ae83-d51a57c6c1aa/sandra-louviere.jpeg",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/75e4dd8b-231e-4ecd-b8d3-b670c8746ee5/sandra-louviere.jpeg",
       "alt": "Sandra Louviere"
     },
     {
       "id": "00000000-0000-4000-8000-000000002017",
-      "sourcePath": "/assets/builder/db478c98-829b-41ca-982d-823c871b1871/96048640-7fba-410b-b4dc-b28e271ffcb0/point-logo.png",
+      "sourcePath": "/assets/builder/e0561d07-11e8-4325-a578-5bd68828a97f/1555a662-1206-4eb8-b4aa-2b7ecbc2bc85/point-logo.png",
       "alt": "Point Community Church"
     }
   ],
@@ -4406,5 +4406,163 @@
       }
     ],
     "events": []
-  }
+  },
+  "footer": [
+    {
+      "id": "00000000-0000-4000-8000-000000000078",
+      "type": "section",
+      "name": "Footer information",
+      "layout": "flow",
+      "position": "flow",
+      "columns": 3,
+      "gap": "none",
+      "width": "site",
+      "surface": "transparent",
+      "padding": "none",
+      "gapPixels": 50,
+      "paddingPixels": 65,
+      "border": "top",
+      "stackAt": "phone",
+      "minRows": 1,
+      "backgroundPosition": "center",
+      "overlay": "none",
+      "items": [
+        {
+          "id": "0000000a-0000-4000-8000-000000000078",
+          "span": 1,
+          "align": {
+            "desktop": "stretch",
+            "tablet": "stretch",
+            "mobile": "stretch"
+          },
+          "grid": {
+            "desktop": {
+              "column": 1,
+              "row": 1,
+              "columnSpan": 4,
+              "rowSpan": 3
+            },
+            "tablet": {
+              "column": 1,
+              "row": 1,
+              "columnSpan": 4,
+              "rowSpan": 3
+            },
+            "mobile": {
+              "column": 1,
+              "row": 1,
+              "columnSpan": 4,
+              "rowSpan": 3
+            }
+          },
+          "element": {
+            "id": "00000001-0000-4000-8000-000000000078",
+            "type": "richText",
+            "content": [
+              {
+                "type": "paragraph",
+                "children": [
+                  {
+                    "text": "Sunday at 10:30 AM"
+                  }
+                ]
+              }
+            ],
+            "heading": "Service Times",
+            "variant": "footer"
+          }
+        },
+        {
+          "id": "0000000b-0000-4000-8000-000000000078",
+          "span": 1,
+          "align": {
+            "desktop": "stretch",
+            "tablet": "stretch",
+            "mobile": "stretch"
+          },
+          "grid": {
+            "desktop": {
+              "column": 5,
+              "row": 1,
+              "columnSpan": 4,
+              "rowSpan": 3
+            },
+            "tablet": {
+              "column": 5,
+              "row": 1,
+              "columnSpan": 4,
+              "rowSpan": 3
+            },
+            "mobile": {
+              "column": 5,
+              "row": 1,
+              "columnSpan": 4,
+              "rowSpan": 3
+            }
+          },
+          "element": {
+            "id": "00000002-0000-4000-8000-000000000078",
+            "type": "richText",
+            "content": [
+              {
+                "type": "address",
+                "text": "11300 Old San Antonio Rd\nManchaca, TX 78652"
+              }
+            ],
+            "heading": "Contact Info",
+            "variant": "footer"
+          }
+        },
+        {
+          "id": "0000000c-0000-4000-8000-000000000078",
+          "span": 1,
+          "align": {
+            "desktop": "stretch",
+            "tablet": "stretch",
+            "mobile": "stretch"
+          },
+          "grid": {
+            "desktop": {
+              "column": 9,
+              "row": 1,
+              "columnSpan": 4,
+              "rowSpan": 3
+            },
+            "tablet": {
+              "column": 9,
+              "row": 1,
+              "columnSpan": 4,
+              "rowSpan": 3
+            },
+            "mobile": {
+              "column": 9,
+              "row": 1,
+              "columnSpan": 4,
+              "rowSpan": 3
+            }
+          },
+          "element": {
+            "id": "00000003-0000-4000-8000-000000000078",
+            "type": "socialLinks",
+            "heading": "Follow Us",
+            "links": [
+              {
+                "platform": "facebook",
+                "label": "Point ATX on Facebook",
+                "url": "https://www.facebook.com/pointatx/"
+              },
+              {
+                "platform": "instagram",
+                "label": "Point ATX on Instagram",
+                "url": "https://www.instagram.com/pointatx/"
+              }
+            ],
+            "align": "center",
+            "appearance": "icons",
+            "variant": "footer"
+          }
+        }
+      ]
+    }
+  ]
 }
